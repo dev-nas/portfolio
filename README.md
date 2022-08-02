@@ -1,3 +1,9 @@
 # Portefolio
 
-*  Un site web responsive en HTML, CSS, JAVASCRIPT, JQUERY.
+* J'ai réalisé un site responsive pour mon portfolio, en Html, Css, Javascript et Jquery.
+ 
+*  Méthode de travail Agile.
+
+*  Outils de tavail : Canva pour la création de graphisme.
+
+
