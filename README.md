@@ -1,4 +1,4 @@
-# Portefolio
+# Portfolio
 
 * J'ai réalisé un site responsive pour mon portfolio, en Html, Css, Javascript et Jquery.
  
